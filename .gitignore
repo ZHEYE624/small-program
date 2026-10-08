@@ -1,0 +1,19 @@
+# Python 字节码缓存
+__pycache__/
+*.py[cod]
+
+# 编译产物（.cpp 源码在仓库里，需要时自己编）
+*.exe
+*.obj
+*.o
+*.pdb
+
+# 《杭电求学路》的运行存档，每次玩都会变，不属于项目内容
+杭电求学路——横板跑酷/游戏程序/hdu_save.dat
+hdu_save.dat
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
